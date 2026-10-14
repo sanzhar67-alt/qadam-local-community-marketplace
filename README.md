@@ -2,6 +2,8 @@
 
 An online marketplace that helps people buy and sell pre-owned goods in their local community.
 
+[Qadam сайтын ашу](https://sanzhar67-alt.github.io/qadam-local-community-marketplace/)
+
 ## Іске қосу
 
 Фреймворк немесе тәуелділік орнату қажет емес. `index.html` файлын браузерде ашыңыз. Сайт кәдімгі статикалық HTML/CSS/JavaScript ретінде жұмыс істейді; жариялау үшін барлық файлды бір каталог құрылымымен хостингке жүктеңіз.
